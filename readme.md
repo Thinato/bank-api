@@ -44,7 +44,7 @@ The following API endpoints are exposed by the application:
 
 To run this project locally or explore the code, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/bank-api.git
+1. Clone the repository: git clone https://github.com/Thinato/bank-api.git
 1. Change directory to the project folder: cd bank-api
 1. Install the required dependencies: go get -d ./...
 1. Build the project: go build
