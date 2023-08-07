@@ -1,4 +1,4 @@
-package client_repository
+package entities
 
 import "time"
 
